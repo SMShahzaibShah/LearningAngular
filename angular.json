@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "first-ng-cli-project"
+  "defaultProject": "first-ng-cli-project",
+  "cli": {
+    "analytics": "0f7ed78e-96a2-422f-9b28-7358da21328a"
+  }
 }
